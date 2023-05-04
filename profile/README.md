@@ -1,14 +1,9 @@
-# Siren.js
+## :wave: Welcome
 
-<!--
+[![Contributing](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
-**Here are some ideas to get you started:**
+If you're new to Siren, be sure to check out the [specification](https://github.com/kevinswiber/siren).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+For client developers, try our [client library](https://github.com/siren-js/client).
 
-A collection of JavaScript libraries for [Siren](https://github.com/kevinswiber/siren).
+For server developers, try our [Siren API Browser](https://siren-js.github.io/api-browser).
